@@ -11,7 +11,7 @@
 
 **Análisis exhaustivo de datos de ventas de 4 tiendas para determinar cuál vender**
 
-[Descripción](#descripción) • [Instalación](#instalación) • [Uso](#uso) • [Resultados](#resultados) • [Autor](#autor)
+[Descripción](#descripción) • [Instalación](#instalación) • [Uso](#uso) • [Autor](#autor)
 
 </div>
 
