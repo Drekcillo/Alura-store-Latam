@@ -1,5 +1,5 @@
 # Alura-store-Latam
-# 🏪 Alura Store - Análisis de Datos para Decisión Estratégica
+# Análisis de Datos para Decisión Estratégica
 
 <div align="center">
 
@@ -299,8 +299,8 @@ Toda contribuciones es bienvenida, esto sirve para poder avanzar. En el caso de 
 
 **Tu Jostyn Yesid Reyes**
 
-- LinkedIn: [Yesid Reyes](www.linkedin.com/in/yesid-reyes-348844324)
-- Email: tjostynreyes.jr@gmail.com
+- LinkedIn: (www.linkedin.com/in/yesid-reyes-348844324)
+- Email: jostynreyes.jr@gmail.com
 
 ---
 
